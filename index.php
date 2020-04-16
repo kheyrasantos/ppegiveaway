@@ -40,7 +40,7 @@
                         <p class="response"></p>
 
                         <h1 class="email-title">
-                            Every 14 emails collected, we will give away 1 N95 Mask to a First Responder
+                            Every 14 emails collected, we will give away 1 N95 Mask to a First Responder*
                         </h1>
                         <form class="email-form" method="POST" action="#">
                             <div class="input-group">
@@ -51,7 +51,7 @@
                               </div>
                             </div>
                             <p class="fine-print">
-                                Up to a maximum of 1,500 masks
+                                *Up to a maximum of 1,500 masks
                             </p>
                         </form>
                     </div>
@@ -63,41 +63,49 @@
             <div class="wrapper">
                 <div class="grid-x grid-padding-x">
                     <div class="cell">
-                        <h1 class="text-center text-uppercase">Lorem ipsum dolor sit amet</h1>
+                        <h1 class="text-center text-uppercase">Personal Protective Equipment Giveaway</h1>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            Full30 is has partnered with multiple brands to provide crucially needed N95 masks for first responders. We have already secured 1,500 masks and are giving one away for every 14 entries into our quarterly giveaway. Signup now and help get this life saving equipment to those in need!
                         </p>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="carousel-container">
-            <div class="grid-x grid-padding-x">
-                <div class="small-6 medium-6 large-3 cell">
-                    <a href="https://www.galcogunleather.com/" target="_blank" title="Galco">
-                        <img src="/img/participants/galco.png" alt="Galco" />
-                    </a>
-                </div>
+        <section class="sponsers-container">
+            <div class="text-center">
+                <h2 class="sponsers-title">Our Sponsors</h2>
+            </div>
 
-                <div class="small-6 medium-6 large-3 cell">
-                    <a href="https://www.readyman.com/" target="_blank" title="Readyman">
-                        <img src="/img/participants/readyman.png" alt="Readyman" />
-                    </a>
-                </div>
+            <div class="carousel-container">
+            
+                <div class="grid-x grid-padding-x">
 
-                <div class="small-6 medium-6 large-3 cell">
-                    <a href="https://www.guns.com/" target="_blank" title="Guns.com">
-                        <img src="/img/participants/guns.png" alt="Guns.com" />
-                    </a>
-                </div>
+                    <div class="small-6 medium-6 large-3 cell">
+                        <a href="https://www.galcogunleather.com/" target="_blank" title="Galco">
+                            <img src="/img/participants/galco.png" alt="Galco" />
+                        </a>
+                    </div>
 
-                <div class="small-6 medium-6 large-3 cell">
-                    <a href="https://hackettequipment.com/" target="_blank" title="Hackett">
-                        <img src="/img/participants/hackett.png" alt="Hacket" />
-                    </a>
-                </div>
+                    <div class="small-6 medium-6 large-3 cell">
+                        <a href="https://www.readyman.com/" target="_blank" title="Readyman">
+                            <img src="/img/participants/readyman.png" alt="Readyman" />
+                        </a>
+                    </div>
 
+                    <div class="small-6 medium-6 large-3 cell">
+                        <a href="https://www.guns.com/" target="_blank" title="Guns.com">
+                            <img src="/img/participants/guns.png" alt="Guns.com" />
+                        </a>
+                    </div>
+
+                    <div class="small-6 medium-6 large-3 cell">
+                        <a href="https://hackettequipment.com/" target="_blank" title="Hackett">
+                            <img src="/img/participants/hackett.png" alt="Hacket" />
+                        </a>
+                    </div>
+
+                </div>
             </div>
         </section>
 
