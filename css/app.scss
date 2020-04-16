@@ -197,13 +197,12 @@ footer {
     }
 }
 
-@media (min-width: 640px) {
-    footer {
-        .social-media {
-            text-align: right;
-        }
+footer {
+    .social-media {
+        text-align: right;
     }
 }
+
 
 // about section
 .about {
@@ -214,5 +213,23 @@ footer {
     h1 {
         color: rgb(13, 147, 65);
         text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.7)
+    }
+}
+
+@media (max-width: 640px) {
+    .form-container {
+        h1 {
+            font-size: 24px;
+        }
+    }
+
+    .carousel-container {
+        img {
+            padding: 15px;
+        }
+    }
+
+    .prizes-container {
+        padding: 15px;
     }
 }

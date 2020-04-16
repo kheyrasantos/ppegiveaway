@@ -178,12 +178,12 @@
         <footer>
             <div class="wrapper">
                 <div class="grid-x grid-padding-x">
-                    <div class="small-12 medium-6 large-6 cell">
-                        <a href="https://www.full30.com/" title="Full30">
+                    <div class="small-6 medium-6 large-6 cell">
+                        <a href="https://www.full30.com/" title="Full30" target="_blank">
                             <img src="/img/logo.svg" alt="Full30" class="logo" />
                         </a>
                     </div>
-                    <div class="small-12 medium-6 large-6 cell">
+                    <div class="small-6 medium-6 large-6 cell">
                         <ul class="no-bullet social-media">
                             <li>
                                 <a href="https://www.facebook.com/FULL30TV/" title="Full30's Facebook" target="_blank">
