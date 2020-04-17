@@ -47,34 +47,6 @@ body {
   z-index: -1;
 }
 
-.sponsers-container {
-  padding: 40px 0;
-}
-.sponsers-container h2 {
-  font-weight: bold;
-  font-size: 30px;
-  margin-bottom: 30px;
-  color: #0a0a0a;
-  display: inline-block;
-  border-bottom: 3px solid #0d9341;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-bottom: 3px;
-  text-transform: uppercase;
-  margin-bottom: 45px;
-}
-
-.carousel-container {
-  display: flex;
-  flex-wrap: wrap;
-}
-.carousel-container .grid-x {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-}
-
 .text-center {
   text-align: center;
 }
@@ -88,8 +60,9 @@ body {
   text-transform: uppercase;
   background-color: white;
   display: inline-block;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 10px;
+  font-size: 30px;
+  margin-bottom: 0;
 }
 .prizes-container .grid-x {
   display: flex;
@@ -101,6 +74,19 @@ body {
   transition: all 0.3s;
 }
 .prizes-container a img:hover {
+  transform: scale(1.05);
+}
+.prizes-container .enter-button {
+  background-color: #0d9341;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 3px;
+  display: inline-block;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  transition: all 0.3s;
+}
+.prizes-container .enter-button:hover {
   transform: scale(1.05);
 }
 
@@ -156,9 +142,20 @@ body {
 }
 
 h1 {
+  color: white;
+  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.5);
   font-size: 30px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 24px;
   text-align: center;
   font-weight: bold;
+}
+
+.about-text {
+  margin-top: 40px;
 }
 
 .fine-print {
@@ -193,23 +190,9 @@ footer .social-media {
   text-align: right;
 }
 
-.about {
-  padding: 80px 0;
-  background: url("../img/subtle_grunge.png");
-  background-repeat: repeat;
-}
-.about h1 {
-  color: #0d9341;
-  text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.7);
-}
-
 @media (max-width: 640px) {
   .form-container h1 {
     font-size: 24px;
-  }
-
-  .carousel-container img {
-    padding: 15px;
   }
 
   .prizes-container {

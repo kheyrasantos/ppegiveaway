@@ -52,40 +52,12 @@ body {
     }
 }
 
-// participants
-.sponsers-container {
-    padding: 40px 0;
-
-    h2 {
-        font-weight: bold;
-        font-size: 30px;
-        margin-bottom: 30px;
-        color: #0a0a0a;
-        display: inline-block;
-        border-bottom: 3px solid $colorPrimary;
-        padding-left: 10px;
-        padding-right: 10px;
-        padding-bottom: 3px;
-        text-transform: uppercase;
-        margin-bottom: 45px;
-    }
-}
-.carousel-container {
-    display: flex;
-    flex-wrap: wrap;
-
-    .grid-x {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
-    }
-}
 
 // prizes container
 .text-center {
     text-align: center;
 }
+
 .prizes-container {
     padding-top: 40px;
     padding-bottom: 20px;
@@ -95,8 +67,9 @@ body {
         text-transform: uppercase;
         background-color: white;
         display: inline-block;
-        padding-left: 10px;
-        padding-right: 10px;
+        padding: 10px;
+        font-size: 30px;
+        margin-bottom: 0;
     }
 
     .grid-x {
@@ -113,6 +86,21 @@ body {
             &:hover {
                 transform: scale(1.05);
             }
+        }
+    }
+
+    .enter-button {
+        background-color: $colorPrimary;
+        font-weight: bold;
+        font-size: 18px;
+        border-radius: 3px;
+        display: inline-block;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        transition: all 0.3s;
+
+        &:hover {
+            transform: scale(1.05);
         }
     }
 }
@@ -175,9 +163,21 @@ body {
 }
 
 h1 {
+    color: white;
+    // text-shadow: 2px 2px 0 rgba(13, 147, 65, 0.7);
+    text-shadow: 3px 3px 0 rgba(0,0,0,0.5);
     font-size: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 24px;
     text-align: center;
     font-weight: bold;
+}
+
+.about-text {
+    margin-top: 40px;
 }
 
 .fine-print {
@@ -220,28 +220,10 @@ footer {
 }
 
 
-// about section
-.about {
-    padding: 80px 0;
-    background: url('../img/subtle_grunge.png');
-    background-repeat: repeat;
-
-    h1 {
-        color: rgb(13, 147, 65);
-        text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.7)
-    }
-}
-
 @media (max-width: 640px) {
     .form-container {
         h1 {
             font-size: 24px;
-        }
-    }
-
-    .carousel-container {
-        img {
-            padding: 15px;
         }
     }
 

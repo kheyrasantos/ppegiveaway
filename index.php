@@ -39,9 +39,12 @@
 
                         <p class="response"></p>
 
-                        <h1 class="email-title">
+                        <h1 class="text-center text-uppercase">Personal Protective Equipment Giveaway</h1>
+
+                        <h2 class="email-title">
                             Every 14 emails collected, we will give away 1 N95 Mask to a First Responder*
                         </h1>
+
                         <form class="email-form" method="POST" action="#">
                             <div class="input-group">
                               <span class="input-group-label">SIGN UP NOW</span>
@@ -54,57 +57,11 @@
                                 *Up to a maximum of 1,500 masks
                             </p>
                         </form>
-                    </div>
-                </div>
-            </div>
-        </section>
 
-        <section class="about">
-            <div class="wrapper">
-                <div class="grid-x grid-padding-x">
-                    <div class="cell">
-                        <h1 class="text-center text-uppercase">Personal Protective Equipment Giveaway</h1>
-                        <p>
+                        <p class="about-text">
                             Full30 is has partnered with multiple brands to provide crucially needed N95 masks for first responders. We have already secured 1,500 masks and are giving one away for every 14 entries into our quarterly giveaway. Signup now and help get this life saving equipment to those in need!
                         </p>
                     </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="sponsers-container">
-            <div class="text-center">
-                <h2 class="sponsers-title">Our Sponsors</h2>
-            </div>
-
-            <div class="carousel-container">
-            
-                <div class="grid-x grid-padding-x">
-
-                    <div class="small-6 medium-6 large-3 cell">
-                        <a href="https://www.galcogunleather.com/" target="_blank" title="Galco">
-                            <img src="/img/participants/galco.png" alt="Galco" />
-                        </a>
-                    </div>
-
-                    <div class="small-6 medium-6 large-3 cell">
-                        <a href="https://www.readyman.com/" target="_blank" title="Readyman">
-                            <img src="/img/participants/readyman.png" alt="Readyman" />
-                        </a>
-                    </div>
-
-                    <div class="small-6 medium-6 large-3 cell">
-                        <a href="https://www.guns.com/" target="_blank" title="Guns.com">
-                            <img src="/img/participants/guns.png" alt="Guns.com" />
-                        </a>
-                    </div>
-
-                    <div class="small-6 medium-6 large-3 cell">
-                        <a href="https://hackettequipment.com/" target="_blank" title="Hackett">
-                            <img src="/img/participants/hackett.png" alt="Hacket" />
-                        </a>
-                    </div>
-
                 </div>
             </div>
         </section>
@@ -120,63 +77,33 @@
 
             <div class="grid-x grid-padding-x">
 
-                <div class="small-6 medium-6 large-4 cell">
-                    <a href="https://hackettequipment.com/collections/rifle-bags/products/rifle-burrito%E2%84%A2-rifle-case-backpack-shooting-mat-and-patch-wall" title="Rifle Burrito" target="_blank">
-                        <img src="/img/prizes/Rifle-Burrito.jpg" alt="Rifle Burrito" />
+                <div class="small-6 medium-6 large-3 cell">
+                    <a href="https://www.readyman.com/" title="Readyman Giftcard" target="_blank">
+                        <img src="/img/giftcards/FULL-30-GIFT-CARD---READYMAN.jpg" alt="Readyman Giftcard" />
                     </a>
                 </div>
 
-                <div class="small-6 medium-6 large-4 cell">
-                    <a href="https://www.readyman.com/products/titan-tactical-otf-knife" title="Titan Tactical OTF Knife" target="_blank">
-                        <img src="/img/prizes/knife.jpg" alt="Titan Tactical OTF Knife" />
+                <div class="small-6 medium-6 large-3 cell">
+                    <a href="https://hackettequipment.com/" title="Hackett Giftcard" target="_blank">
+                        <img src="/img/giftcards/FULL-30-GIFT-CARD---HACKETT.jpg" alt="Hackett Giftcard" />
                     </a>
                 </div>
 
-                <div class="small-6 medium-6 large-4 cell">
-                    <a href="https://www.readyman.com/products/edc-survival-tool" title="EDC Survival Tool" target="_blank">
-                        <img src="/img/prizes/edc.jpg" alt="EDC Survival Tool" />
-                    </a>
-                </div>
-
-                <div class="small-6 medium-6 large-4 cell">
-                    <a href="https://www.readyman.com/products/readyman-tinder-scraper-card" title="ReadyMan Tinder Scraper Card" target="_blank">
-                        <img src="/img/prizes/ReadyMan-Tinder-Scraper-Card.jpg" alt="ReadyMan Tinder Scraper Card" />
-                    </a>
-                </div>
-
-                <div class="small-6 medium-6 large-4 cell">
-                    <a href="https://www.readyman.com/collections/survival-cards/products/readyman-wilderness-survival-card" title="" target="_blank">
-                        <img src="/img/prizes/Wilderness-Survival-Card.jpg" alt="" />
-                    </a>
-                </div>
-
-                <div class="small-6 medium-6 large-4 cell">
-                    <a href="https://www.readyman.com/collections/survival-cards/products/readyman-fishermans-survival-card" title="Wilderness Survival Card 2.0" target="_blank">
-                        <img src="/img/prizes/Fisherman-Survival-Card.jpg" alt="Wilderness Survival Card 2.0" />
-                    </a>
-                </div>
-
-                <div class="small-6 medium-6 large-4 cell">
-                    <a href="https://www.readyman.com/products/tinder-tin" title="Tinder Tin" target="_blank">
-                        <img src="/img/prizes/tindertin.jpg" alt="Tinder Tin" />
-                    </a>
-                </div>
-
-                <div class="small-6 medium-6 large-4 cell">
-                    <a href="https://www.galcogunleather.com/bungee-sling_8_395_1389.html" title="BUNGEE SLING" target="_blank">
-                        <img src="/img/prizes/BUNGEE-SLING.jpg" alt="BUNGEE SLING" />
-                    </a>
-                </div>
-
-                <div class="small-6 medium-6 large-4 cell">
+                <div class="small-6 medium-6 large-3 cell">
                     <a href="https://www.galcogunleather.com/" title="Galco Giftcard" target="_blank">
-                        <img src="/img/prizes/galco-giftcard.jpg" alt="Galco Giftcard" />
+                        <img src="/img/giftcards/FULL-30-GIFT-CARD---GALCO.jpg" alt="Galco Giftcard" />
                     </a>
                 </div>
 
-                <div class="small-6 medium-6 large-4 cell">
-                    <a href="https://www.guns.com/firearms/handguns/semi-auto/mossberg-mc2c-9mm-semi-auto-13-rounds-or-15-rounds-3-9-barrel-1-31-lbs-new?p=40921" title="MOSSBERG MC2C" target="_blank">
-                        <img src="/img/prizes/gunscom.jpg" alt="MOSSBERG MC2C" />
+                <div class="small-6 medium-6 large-3 cell">
+                    <a href="https://www.guns.com/" title="MOSSBERG MC2C" target="_blank">
+                        <img src="/img/giftcards/FULL-30-GIFT-CARD---GUNS.COM.jpg" alt="Full30 Giftcard" />
+                    </a>
+                </div>
+
+                <div class="text-center">
+                    <a href="" title="" target="_blank" class="button enter-button">
+                        Sponser This Giveaway
                     </a>
                 </div>
 
